@@ -1,4 +1,4 @@
-extends Node
+extends Resource
 class_name EntityStat
 
 signal base_value_changed(from:float, to:float)
